@@ -1,4 +1,17 @@
 Changelog: CabinetPlanner
+7.25.1021.1656 (2025-10-21)
+. Cabinet Defaults forms has empty space at the bottom - this has been fixed
+. User Guide has been updated to be in line with latest changes.
+
+7.25.1017.1846 (2025-10-17)
+. When deleting the last or only project a message is displayed indicating that there are no Projects on file but the Open button was still displaying the last Project - this has been fixed
+
+7.25.1015.1343 (2025-10-15)
+. Closing the Main screen when no projects exixt in the Project Folder could cause an Access Violation error - this has been fixed
+
+7.25.1014.1114 (2025-10-14)
+. Makeover affected several forms and functions with most being in the Main (start) screen
+
 6.25.0426.1538 (2025-04-26)
 . Tweak: Support and Donate removed from app until further notice
 . BugFix: Attempts to change a Folder location for Project failed to complete - this has been fixed
