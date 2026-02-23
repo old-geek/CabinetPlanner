@@ -1,4 +1,8 @@
 Changelog: CabinetPlanner
+7.26.0207.1138 (2026-02-07)
+. Enhancement: Error reporting for support has been upgraded
+. Tweak: Cosmetic changes to forms and minor performance improvements 
+
 7.25.1021.1656 (2025-10-21)
 . Cabinet Defaults forms has empty space at the bottom - this has been fixed
 . User Guide has been updated to be in line with latest changes.
